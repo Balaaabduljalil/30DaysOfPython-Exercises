@@ -1,0 +1,2 @@
+#This was the exercise given in the day of the week and i have practice almost every of my previous code with teminal to identified the possibles errors and suggestion for correcting those errors. 
+#Open you python interactive shell and try all the examples covered in this section.🎉 CONGRATULATIONS ! 🎉
