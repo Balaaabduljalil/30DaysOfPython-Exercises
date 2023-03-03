@@ -23,5 +23,5 @@ I was opportune to learned and attempt exercises on the listed python projects a
 • File Handling.<br>
 • Python Package Manager.<br>
 • Classes and objects. <br>
-
+• Python Web scripping. <br>
 
