@@ -25,4 +25,5 @@ I was opportune to learned and attempt exercises on the listed python projects a
 • Classes and objects. <br>
 • Python Web scripping. <br>
 • Python virtual environment. <br>
+• Statistics. <br>
 
